@@ -9,5 +9,5 @@ class Sp02ItemserviceApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+int a=1;
 }
