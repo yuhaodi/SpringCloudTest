@@ -10,4 +10,5 @@ class Sp02ItemserviceApplicationTests {
 	void contextLoads() {
 	}
 int a=1;
+ int b=0;
 }
